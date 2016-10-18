@@ -1,0 +1,8 @@
+{
+  "name": "Eventbrite Event Radar",
+  "description": "A Python script that can be run using the Heroku Scheduler to query for a particular event, and send an alert email.",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/event_radar",
+  "keywords": ["python", "Eventbrite" ],
+  "addons": [ "" ]
+}
